@@ -1,0 +1,11 @@
+TERMINAL
+cd - change directory
+ls - lists directory
+
+GITHUB
+git clone https://github.com/<username>/<repository>
+git add --all
+git add <file>
+git commit
+git push
+
