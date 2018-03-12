@@ -1,0 +1,10 @@
+<script>
+var Name = prompt('What is your name?' , '');
+
+</script>
+
+<script>
+if (Name == 'robbye') { document. write( "Hey girl! Welcome to your site.");
+}
+
+</script>
